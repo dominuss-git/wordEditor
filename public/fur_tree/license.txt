@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fur Tree
+* source:	https://sketchfab.com/3d-models/fur-tree-41fa3210e50944eaa489c148e5e2ccc7
+* author:	Harri Jones (https://sketchfab.com/HarriJones23)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fur Tree" (https://sketchfab.com/3d-models/fur-tree-41fa3210e50944eaa489c148e5e2ccc7) by Harri Jones (https://sketchfab.com/HarriJones23) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
